@@ -247,14 +247,14 @@
   window.addEventListener('load', () => {
     AOS.init({
       duration: 1000,
-      easing: 'ease-in-out',
+      easing: 'ease-i-nout',
       once: true,
       mirror: false
     })
   });
 
   /**
-   * Initiate Pure Counter 
+   * Iniitate Pure Counter 
    */
   new PureCounter();
 
